@@ -12,10 +12,10 @@ npm run start https://google.com
 
 ## Flow
 ### 1
-(./assets/Process.png)
+![Flow Diagram](./assets/Process.png)
 
 ### 2
-(./assets/Timeline.png)
+![Timeline Diagram](./assets/Timeline.png)
 
 ## Demonstration
 ![Program in Action](./assets/sample.gif)
